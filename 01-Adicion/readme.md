@@ -12,7 +12,7 @@ muestre en pantalla.
 
 ---
 ## • MODELO IPO:
-![Modelo IPO](file:///F:\PAME\ALGORITMOS%20-%20K1051\modelo_ipo.png)
+![](https://github.com/MeLuque/AED/blob/master/01-Adicion/Imagenes/modelo_ipo.png)
 
 # ETAPA 2 - DISEÑO DE LA SOLUCION:  
 ## • LEXICO DEL ALGORITMO:  
@@ -21,7 +21,7 @@ muestre en pantalla.
 ---
 ## • REPRESENTACIÓN DEL ALGORITMO:  
 ### Representación Visual: Diagrama de Flujo Estandard ISO 5807  
-![DiagramaDeFlujo](file:///F:\PAME\ALGORITMOS%20-%20K1051\diagramadeflujo.png)
+![](https://github.com/MeLuque/AED/blob/master/01-Adicion/Imagenes/diagramadeflujo.png)
 
 ### Representación Textual: Pseudocódigo  
  >**INICIO**  
